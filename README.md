@@ -124,16 +124,18 @@ The analysis provides insights into:
 ## Screenshots
 
 ### 1. **News Extraction Output**
-![News Extraction](screenshots/news_extraction.png)
+![News Extraction Output](https://github.com/user-attachments/assets/d23ccc82-9153-4611-aeac-8c8261088cd3)
 
 ### 2. **Parsed DataFrame**
-![Parsed DataFrame](screenshots/parsed_dataframe.png)
+![Parsed DataFrame](https://github.com/user-attachments/assets/b63b0311-661b-46f3-9242-a9acf5652fd2)
 
 ### 3. **Sentiment Scores**
-![Sentiment Scores](screenshots/sentiment_scores.png)
+![Sentiment Scores](https://github.com/user-attachments/assets/19066c16-c030-4c14-a3e9-7decdd510bb2)
 
 ### 4. **Visualization - Sentiment Trend**
-![Sentiment Trend](screenshots/sentiment_trend.png)
+![Average Sentiment (Compound) Score per Ticker](https://github.com/user-attachments/assets/6e1881be-3b2f-4957-9339-ec787a9da179)
+![Sentiment Analysis by Date](https://github.com/user-attachments/assets/fead7cb7-ba80-40e9-a403-d971ece48f3c)
+![Top 10 Dates with Highest Average Sentiment Scores](https://github.com/user-attachments/assets/73f41ecd-aeb4-4daf-8714-c9780120740a)
 
 ---
 
